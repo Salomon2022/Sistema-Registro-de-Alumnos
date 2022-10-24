@@ -1,0 +1,13 @@
+C:\Users\sarehi\Desktop\senati\4° Semestre\Sistema Registro de Alumnos\obj\Debug\Sistema Registro de Alumnos.vbproj.AssemblyReference.cache
+C:\Users\sarehi\Desktop\senati\4° Semestre\Sistema Registro de Alumnos\obj\Debug\Sistema Registro de Alumnos.vbproj.SuggestedBindingRedirects.cache
+C:\Users\sarehi\Desktop\senati\4° Semestre\Sistema Registro de Alumnos\obj\Debug\Sistema_Registro_de_Alumnos.Alumnos.resources
+C:\Users\sarehi\Desktop\senati\4° Semestre\Sistema Registro de Alumnos\obj\Debug\Sistema_Registro_de_Alumnos.Resources.resources
+C:\Users\sarehi\Desktop\senati\4° Semestre\Sistema Registro de Alumnos\obj\Debug\Sistema Registro de Alumnos.vbproj.GenerateResource.cache
+C:\Users\sarehi\Desktop\senati\4° Semestre\Sistema Registro de Alumnos\obj\Debug\Sistema Registro de Alumnos.vbproj.CoreCompileInputs.cache
+C:\Users\sarehi\Desktop\senati\4° Semestre\Sistema Registro de Alumnos\bin\Debug\Sistema Registro de Alumnos.exe.config
+C:\Users\sarehi\Desktop\senati\4° Semestre\Sistema Registro de Alumnos\bin\Debug\Sistema Registro de Alumnos.exe
+C:\Users\sarehi\Desktop\senati\4° Semestre\Sistema Registro de Alumnos\bin\Debug\Sistema Registro de Alumnos.pdb
+C:\Users\sarehi\Desktop\senati\4° Semestre\Sistema Registro de Alumnos\bin\Debug\Sistema Registro de Alumnos.xml
+C:\Users\sarehi\Desktop\senati\4° Semestre\Sistema Registro de Alumnos\obj\Debug\Sistema Registro de Alumnos.exe
+C:\Users\sarehi\Desktop\senati\4° Semestre\Sistema Registro de Alumnos\obj\Debug\Sistema Registro de Alumnos.xml
+C:\Users\sarehi\Desktop\senati\4° Semestre\Sistema Registro de Alumnos\obj\Debug\Sistema Registro de Alumnos.pdb
